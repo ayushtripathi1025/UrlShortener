@@ -1,5 +1,5 @@
 import React from 'react';
-import { InputForm } from './inputForm';
+import { InputForm } from './InputForm.jsx';
 
 export default function Home() {
   return (
